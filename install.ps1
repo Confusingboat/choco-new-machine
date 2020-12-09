@@ -15,4 +15,5 @@ choco install docker-desktop -y
 choco install vscode --params "/NoDesktopIcon" -y
 choco install postman -y
 choco install visualstudio2019community -y
+choco install jetbrainstoolbox -y
 choco install resharper-ultimate-all --params "'/PerMachine /NoCpp /NoTeamCityAddin'" -y

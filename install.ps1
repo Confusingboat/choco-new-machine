@@ -1,3 +1,5 @@
+set-timezone "central standard time"
+
 # Hyper-V for Docker
 enable-windowsoptionalfeature -online -featurename microsoft-hyper-v -all
 

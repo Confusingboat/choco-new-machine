@@ -24,3 +24,6 @@ choco install postman -y
 choco install visualstudio2019community -y --package-parameters "--allWorkloads --includeRecommended --includeOptional --passive --locale en-US"
 choco install jetbrainstoolbox -y
 choco install resharper-ultimate-all --params "'/PerMachine /NoCpp /NoTeamCityAddin'" -y
+
+# 1Password browser extension
+start-process https://chrome.google.com/webstore/detail/1password-extension-deskt/aomjjhallfgjeglblehebfpbcfeobpgk
